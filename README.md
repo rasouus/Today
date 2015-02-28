@@ -1,2 +1,2 @@
 # Today
-Study Jam tutorial
+Study Jam tutorial on GIT
